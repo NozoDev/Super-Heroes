@@ -1,0 +1,25 @@
+/* navbar.css */
+.contenedor-padre {
+  background-color: bisque;
+  height: 60px;
+}
+
+.contenedor-hijo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+  list-style: none;
+  padding: 0;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.contenedor-hijo a {
+  text-decoration: none; /* Quita la subrayado de los enlaces */
+  color: black; /* Color del texto de los enlaces */
+}
+
+.contenedor-hijo a:hover {
+  font-weight: bold; /* Resalta el enlace al pasar el mouse sobre él */
+}
