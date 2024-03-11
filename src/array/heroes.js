@@ -19,6 +19,8 @@ const heroes = [
     id: 1,
     title: "Arrow",
     image: img1,
+    informacion: "Arrow es un super heroe que es de distancia",
+    ataque: 185
   },
   {
     id: 2,
