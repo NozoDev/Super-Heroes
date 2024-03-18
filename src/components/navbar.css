@@ -1,7 +1,8 @@
 /* navbar.css */
 .contenedor-padre {
   background-color: bisque;
-  height: 60px;
+  padding: 1rem;
+  margin: 1rem;
 }
 
 .contenedor-hijo {

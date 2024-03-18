@@ -13,6 +13,12 @@ import img12 from "../image/marvel-cyclops.jpg";
 import img13 from "../image/marvel-daredevil.jpg";
 import img14 from "../image/marvel-hawkeye.jpg";
 import img15 from "../image/marvel-hulk.jpg";
+import img16 from "../image/marvel-iron.jpg";
+import img17 from "../image/marvel-silver.jpg";
+import img18 from "../image/marvel-spider.jpg";
+import img19 from "../image/marvel-wolverine.jpg";
+import img20 from "../image/marvel-thor.jpg";
+
 
 const heroes = [
   {
@@ -92,6 +98,36 @@ const heroes = [
     title: "Hulk",
     image: img15,
   },
+  {
+    id: 16,
+    title: "Iron Maiden",
+    image: img16,
+  },
+  {
+    id: 17,
+    title: "Silver",
+    image: img17,
+  },
+  {
+    id: 18,
+    title: "Spider-man",
+    image: img18,
+  },
+  {
+    id: 19,
+    title: "Wolvering",
+    image: img19,
+  },
+
+  {
+    id: 20,
+    title: "Thor",
+    image: img20,
+  },
+
+
+
+  
 ];
 
 export default heroes;
